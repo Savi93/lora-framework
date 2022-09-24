@@ -10,4 +10,4 @@ questions such as configurability and efficiency in terms of quantity of data tr
 
 ### Technologies used: C++, Arduino, LoRaWAN, The Things Network (TTN)
 
-![Alt text](bredboard.png)
+![Alt text](bredboard.jpg)
