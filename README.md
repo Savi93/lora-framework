@@ -8,7 +8,7 @@ Therefore, this thesis work copes with this gaps and, based on a design science 
 digital I/Os and with serial communication protocols (such as UART and I2C); in practical terms the framework was instantiated on a microprocessor-based device and was mounted on bredboard for testing purposes. Given the development with a problem-oriented process, key
 questions such as configurability and efficiency in terms of quantity of data transmitted have been answered by providing methods and implementations within the framework design with the primary purpose of improving the overall λ knowledge in the LoRaWAN domain.
 
-### Technologies used: C++, Arduino, LoRaWAN, LPWAN, The Things Network (TTN)
+### Technologies used: C/C++, Arduino, LoRaWAN, LPWAN, The Things Network (TTN)
 
 ![Alt text](Architecture.png)
 ![Alt text](bredboard.jpg)
