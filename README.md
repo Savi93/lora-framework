@@ -1,4 +1,4 @@
-# 👨🏻‍🎓 Configurable and resource efficient framework for data and command transmission over LoRaWAN
+# Configurable and resource efficient framework for data and command transmission over LoRaWAN
 
 LoRaWAN protocol is one of the over-the-air technologies that is emerging in the last years in the Internet of Things context due to key factors such as long-distance transmissions (excellent for installation in remote areas) and low power consumption.
 Given however its recent development (2015), its potential has not yet been properly demarcated, and the LoRaWAN application area is mainly limited to the smart tracking or monitoring, where the classical scenario involves only the display of data sent from sensor devices.
